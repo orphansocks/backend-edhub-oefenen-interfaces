@@ -1,6 +1,10 @@
 # geen IntelliJ bestanden in git:
 *.iml
 .idea/
+/node_modules
+/dist
+*.local
+*.log
 
 # geen product(en) van Maven in git:
 target/
